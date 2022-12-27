@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "dev": "parcel index.hbs",
-    "build": "parcel build index.hbs"
+    "build": "npm run build"
   },
   "keywords": [],
   "author": "",
