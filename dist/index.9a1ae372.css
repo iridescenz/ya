@@ -1,0 +1,28 @@
+h1 {
+  color: red;
+  font-size: 20px;
+}
+
+.QlxjtG_btn {
+  color: #fff;
+  border-radius: 3px;
+  padding: 5px 10px;
+  font-family: Poiret One, cursive;
+  font-size: 2em;
+  text-decoration: none;
+}
+
+.QlxjtG_btn-green {
+  background: #2ecc71;
+}
+
+.QlxjtG_btn-green:hover {
+  background: #26ab5f;
+  transition: all .3s;
+}
+
+.QlxjtG_btn-green:active {
+  background: #176437;
+}
+
+/*# sourceMappingURL=index.9a1ae372.css.map */
