@@ -578,8 +578,8 @@ exports.export = function(dest, destName, get) {
 };
 
 },{}],"665vq":[function(require,module,exports) {
-module.exports["btn"] = `QlxjtG_btn`;
 module.exports["btn-green"] = `QlxjtG_btn-green`;
+module.exports["btn"] = `QlxjtG_btn`;
 
 },{}]},["iJYvl","h7u1C"], "h7u1C", "parcelRequire25d8")
 
